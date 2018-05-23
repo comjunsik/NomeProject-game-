@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01.Scenes/Loding_Menu/01.LoGo.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8c88819600f2e143a05dd51e7b734cc
+timeCreated: 1485358467
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameOn: {fileID: 1857704146033046, guid: 3104be386ace92845ac77fbaad605a19, type: 2}
+  - GameOff: {fileID: 1669983759780518, guid: 86e3df36b3b3eb9409d1039d56b8ea87, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
